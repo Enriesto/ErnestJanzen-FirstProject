@@ -30,11 +30,6 @@ h2 {
   margin-top: 0;
 }
 
-input, select{
-  position: absolute;
-  left: 320px;
-}
-
 input:focus{
   background-color: #C49595;
 }
